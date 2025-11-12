@@ -27,6 +27,11 @@ By integrating AI into waste management, this project contributes to a cleaner e
 
 ---
 
+## DataSet
+https://www.kaggle.com/datasets/aashidutt3/waste-segregation-image-dataset
+
+---
+
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
