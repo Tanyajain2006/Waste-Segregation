@@ -81,3 +81,8 @@ git push origin feature/your-feature-name
 - Check open issues before creating a new one.
 
 ---
+
+## Note
+- You can even use multiple datasets and integrate them to get higher accuracy
+
+---
