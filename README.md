@@ -76,11 +76,11 @@ git push origin feature/your-feature-name
 
 ---
 
-📝 Contribution Rules
-Ensure your code follows clean, readable, and consistent styling.
-Write meaningful commit messages.
-For UI updates, maintain accessibility and responsiveness.
-Be respectful and inclusive in all discussions and contributions.
-Check open issues before creating a new one.
+##📝 Contribution Rules
+- Ensure your code follows clean, readable, and consistent styling.
+- Write meaningful commit messages.
+- For UI updates, maintain accessibility and responsiveness.
+- Be respectful and inclusive in all discussions and contributions.
+- Check open issues before creating a new one.
 
 ---
