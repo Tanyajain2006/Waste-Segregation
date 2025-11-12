@@ -23,7 +23,6 @@ By integrating AI into waste management, this project contributes to a cleaner e
 - **NumPy**
 - **Matplotlib**
 - **scikit-learn**
-- **OpenCV**
 
 ---
 
