@@ -27,9 +27,6 @@ By integrating AI into waste management, this project contributes to a cleaner e
 
 ---
 
-
----
-
 ## ⚙️ Installation
 1. Clone this repository:
    ```bash
@@ -50,7 +47,7 @@ jupyter notebook notebooks/Waste_Segregation.ipynb
 ```
 ---
 
-##🚀 How to Contribute
+## 🚀 How to Contribute
 We welcome all contributors—developers, designers, writers, and advocates for women’s empowerment! 🌼
 
 Steps to contribute:
@@ -76,7 +73,7 @@ git push origin feature/your-feature-name
 
 ---
 
-##📝 Contribution Rules
+## 📝 Contribution Rules
 - Ensure your code follows clean, readable, and consistent styling.
 - Write meaningful commit messages.
 - For UI updates, maintain accessibility and responsiveness.
