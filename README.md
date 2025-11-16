@@ -22,7 +22,7 @@ By integrating AI into waste management, this project contributes to a cleaner e
 - **TensorFlow / Keras**
 - **NumPy**
 - **Matplotlib**
-- **scikit-learn**
+- **Scikit-Learn**
 - **CNN**
 
 ---
@@ -34,9 +34,10 @@ https://www.kaggle.com/datasets/aashidutt3/waste-segregation-image-dataset
 
 ## ⚙️ Installation
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Tanyajain2006/Waste-Segregation.git
-   cd Waste-Segregation
+```bash
+git clone https://github.com/Tanyajain2006/Waste-Segregation.git
+cd Waste-Segregation
+```
 
 2. Create a virtual environment and install dependencies:
 ```bash
@@ -60,7 +61,7 @@ Steps to contribute:
 1. Fork the repository.
 2. Clone your fork:
 ``` bash
-git clone https://github.com/<your-username>/Shakshat_Stree.git
+git clone https://github.com/<your-username>/Waste-Segregation.git
 ```
 3. Create a new feature branch:
 ``` bash
